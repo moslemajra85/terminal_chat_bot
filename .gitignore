@@ -46,4 +46,7 @@ desktop.ini
 *.sqlite3
 *.sqlite
 
+# messages file
+messages.json
+
 # End of file
